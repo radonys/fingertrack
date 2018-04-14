@@ -1,6 +1,8 @@
 ## Real-time Finger-Detection using Neural Networks (SSD) on Tensorflow.
 
-## Citation
+Real Time Hand Detection using SSD and processing the detected hand to identify the fingers in the hand.
+
+### Citation
 
 Victor Dibia, Real-time Hand-Detection using Neural Networks (SSD) on Tensorflow, (2017), GitHub repository, https://github.com/victordibia/handtracking
 ```bib
@@ -15,7 +17,7 @@ Victor Dibia, Real-time Hand-Detection using Neural Networks (SSD) on Tensorflow
 }
 ```
 
-## References
+### References
 
 Some related and referenced papers.
 
