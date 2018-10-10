@@ -4,7 +4,7 @@ Real Time Hand Detection using SSD and processing the detected hand to identify 
 
 For Hand Detection in real time, I am using the published work by Victor Dibia, where they have used a Single Shot Multi-Box Detector (SSD), and I am using their pretrained model on MobileNet (v1).
 
-For Finger Detection, I am using image processing techniques like Gaussian Blur as well as finding Convex Hull and Convexity Defects to find points of finger tips and points betwwen the fingers.
+For Finger Detection, I am using image processing techniques like Gaussian Blur as well as finding Convex Hull and Convexity Defects to find points of finger tips and points between the fingers.
 
 ### Citation
 
